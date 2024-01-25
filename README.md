@@ -1,11 +1,11 @@
 # Cpeater
 Running the Linux command tools repeatedly.
 
-*** You need to run this file on the directory, ~/Handmade_tools/Cpeater ***
+*** You need to run this file in the directory, ~/Handmade_tools/Cpeater ***
 
 ## Installation
 1. Download 'cpeater', 'help.txt' on the directory, ~/Handmade_tools/Cpeater.
-2. Command with 'rustc cpeater'.
+2. Execute the command 'rustc cpeater'.
 3. echo 'export PATH=$PATH:$HOME/Handmade_tools/Cpeater' >> ~/.bashrc
 source ~/.bashrc
 
