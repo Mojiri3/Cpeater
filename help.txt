@@ -1,0 +1,22 @@
+
+ <Function>
+
+ ***** Tools running repeatedly *****
+
+ Usage:
+	cpeater <Your tool> <Tool's parameter-1> <Proper contents to parameter-1> <Repetition range-1> <Tool's parameter-2> <Proper contents to parameter-2> <Repetition range-2> ...
+
+ *** General options
+
+ <Your tool>
+	Input tool you want to use.
+ <Tool's parameter-#>
+	Input the parameter you want to use.
+ <Proper contents to parameter-#>
+ 	Input the content you want to use with <Your tool>.
+
+ 	If you want to repeat the task, replace the position with "{}", specific to the file.
+
+ 	<Repetition range-#>
+		Input the repetition range in the format "##-##" or "##,##,##-##,...".
+		If the option is empty, the proper contents remain fixed.
