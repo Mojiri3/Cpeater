@@ -5,8 +5,7 @@ Running the Linux command tools repeatedly.
 
 ## Installation
 1. Download 'cpeater', 'help.txt' on the directory, ~/Handmade_tools/Cpeater.
-2. Execute the command 'rustc cpeater'.
-3. echo 'export PATH=$PATH:$HOME/Handmade_tools/Cpeater' >> ~/.bashrc
+2. echo 'export PATH=$PATH:$HOME/Handmade_tools/Cpeater' >> ~/.bashrc
 source ~/.bashrc
 
 ## Usage
