@@ -1,7 +1,7 @@
 # Cpeater
 Running the Linux command tools repeatedly.
 
-<img src="https://github.com/Mojiri3/Cpeater/assets/121717758/6d446f67-7363-4334-a346-539c592c2964.png" height="300"/>
+<img src="https://github.com/Mojiri3/Cpeater/assets/121717758/6d446f67-7363-4334-a346-539c592c2964.png" height="100"/>
 
 *** You need to run this file in the directory, ~/Handmade_tools/Cpeater ***
 
